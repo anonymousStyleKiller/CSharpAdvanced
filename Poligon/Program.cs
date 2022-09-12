@@ -1,6 +1,6 @@
-﻿using Poligon;
-using Poligon.HasTable;
+﻿using Poligon.InputOutput;
 using Poligon.Lists;
+using Directory = Poligon.InputOutput.Directory;
 
-var start = new SortedL();
-start.MethodName();
+var start = new Directory();
+start.Start();
