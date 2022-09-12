@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "phnE+B4pOSd++QjO4XdCnhT95prrip4zeZjOSDw203Z4wK7F+XCFd3tKrmlivJbmrZcMtPWqJDn7MTmygmN+QA==",
+  "dgSpecHash": "9kiUv3XsXUt7UzUUxTYjkQ9btp4SZx/tM672/kSiWKuMWyQpkoS8X0pFT5mBPlokXkR9QKmznjYOlgTeROaQsQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.7\\microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
