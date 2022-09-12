@@ -1,0 +1,15 @@
+C:\Projects\OpenSources\Poligon\Poligon\bin\Debug\net6.0\Poligon.exe
+C:\Projects\OpenSources\Poligon\Poligon\bin\Debug\net6.0\Poligon.deps.json
+C:\Projects\OpenSources\Poligon\Poligon\bin\Debug\net6.0\Poligon.runtimeconfig.json
+C:\Projects\OpenSources\Poligon\Poligon\bin\Debug\net6.0\Poligon.dll
+C:\Projects\OpenSources\Poligon\Poligon\bin\Debug\net6.0\Poligon.pdb
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.csproj.AssemblyReference.cache
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.AssemblyInfoInputs.cache
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.AssemblyInfo.cs
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.csproj.CoreCompileInputs.cache
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.dll
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\refint\Poligon.dll
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.pdb
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\Poligon.genruntimeconfig.cache
+C:\Projects\OpenSources\Poligon\Poligon\obj\Debug\net6.0\ref\Poligon.dll
