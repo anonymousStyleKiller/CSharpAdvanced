@@ -1,5 +1,5 @@
 ﻿using Poligon.InputOutput;
 using Poligon.Lists;
+using Poligon.Text;
 
-var start = new FileTest();
-start.CreateFile();
+StringTest.Start();
