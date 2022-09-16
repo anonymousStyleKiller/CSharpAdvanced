@@ -1,11 +1,16 @@
+using System.Globalization;
+
 namespace Poligon.Text;
 
-public static class StringTest
+public class StringTest 
 {
     public static void Start()
     {
-        var s = new string("Hi");
+        var culture = CultureInfo.CurrentCulture;
         var intern = String.Intern(Console.ReadLine());
-        Console.WriteLine(intern == s);
+        Console.WriteLine(culture);
+        var dict = new Dictionary<string, string>();
+        dict.ToList();
     }
+    
 }

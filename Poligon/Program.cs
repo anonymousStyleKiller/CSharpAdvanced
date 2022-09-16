@@ -1,5 +1,4 @@
-﻿using Poligon.InputOutput;
-using Poligon.Lists;
+﻿using Poligon.Reflection;
 using Poligon.Text;
 
-StringTest.Start();
+Reflection.Main();
