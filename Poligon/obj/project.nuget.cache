@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9kiUv3XsXUt7UzUUxTYjkQ9btp4SZx/tM672/kSiWKuMWyQpkoS8X0pFT5mBPlokXkR9QKmznjYOlgTeROaQsQ==",
+  "dgSpecHash": "yRAeaYjE07i2GGYGn+FAX0T2ti0xdmwzgGWcxdFDkXMjKOYf3J11xfhEQ+U0OI9us/rxAsv4HaSglWKynCClwg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
-    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
-    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
-    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.7\\microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\Poligon.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

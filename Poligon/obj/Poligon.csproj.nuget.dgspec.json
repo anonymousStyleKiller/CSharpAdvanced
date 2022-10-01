@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj": {}
+    "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\Poligon.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj": {
+    "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\Poligon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj",
+        "projectUniqueName": "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\Poligon.csproj",
         "projectName": "Poligon",
-        "projectPath": "C:\\Projects\\OpenSources\\Poligon\\Poligon\\Poligon.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OpenSources\\Poligon\\Poligon\\obj\\",
+        "projectPath": "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\Poligon.csproj",
+        "packagesPath": "C:\\Users\\anton.kharchenko\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Tests\\CSharpAdvanced\\Poligon\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\anton.kharchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,30 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.7, 6.0.7]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.7, 6.0.7]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.7, 6.0.7]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.7, 6.0.7]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.7.22377.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
