@@ -1,5 +1,6 @@
 ﻿using Poligon.ActionAndFuncDelegations;
 using Poligon.Delegate;
+using Poligon.Events;
 using Poligon.GC;
 
-ActionAndFuncDelegations.Main();
+SimpleEvents.Main();
