@@ -1,4 +1,5 @@
-﻿using Poligon.Delegate;
+﻿using Poligon.ActionAndFuncDelegations;
+using Poligon.Delegate;
 using Poligon.GC;
 
-BaseDelegate.Main();
+ActionAndFuncDelegations.Main();
