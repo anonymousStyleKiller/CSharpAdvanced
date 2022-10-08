@@ -1,6 +1,3 @@
-﻿using Poligon.ActionAndFuncDelegations;
-using Poligon.Delegate;
-using Poligon.Events;
-using Poligon.GC;
+﻿using Poligon.Task;
 
-SimpleEvents.Main();
+TaskEx.Main();
